@@ -15,6 +15,9 @@ enum NetworkError: String, Error {
 
 final class WeatherService {
     
+    //MARK: This is most likely a bad way make Network Calls considering
+    //I can probably wrap all this use into one Response
+    
     func getTemperatures(completion: @escaping (Result<Temperatures?, NetworkError>) -> Void) {
         
         guard let url = URL.urlWeather() else {
