@@ -1,0 +1,82 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww14340\viewh14600\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 import java.util.Scanner;\
+public class MyProgram\
+\{\
+    //Set as constants?\
+    static final double MilkPrice = 4.50;\
+    static final double ButterPrice = 2.00;\
+    static final double BreadPrice = 2.50;\
+    \
+    static Scanner userInput = new Scanner (System.in);\
+        \
+    public static void main(String[] args)\
+    \{\
+     \
+     //Declare variables that can change\
+     int InQuantityTotalAmount;\
+     String end;\
+     String pluralItem;\
+     double InTotalAmount;\
+     \
+     int MilkQuantity;\
+     double MilkTotal;\
+     String MilkPlural;\
+     String IncludeMilk;\
+     \
+     int BreadQuantity;\
+     double BreadTotal;\
+     String BreadPlural;\
+     String IncludeBread;\
+     \
+     int ButterStickQuantity;\
+     double ButterTotal;\
+     String ButterPlural;\
+     String IncludeButter;\
+     \
+     //Enter input\
+     System.out.println("Welcome!\\nMenu:\\nMilk: $"+MilkPrice+" Per Carton\\nButter: $"+ButterPrice+" Per Stick");\
+     System.out.println("Bread: $"+BreadPrice+" Per loaf\\n\\nGet start by entering the quantity of each item...");\
+     \
+     //Extras to make it seem more like a POS Machine\
+     System.out.print("Milk: ");\
+     MilkQuantity = userInput.nextInt();\
+     MilkPlural = (MilkQuantity > 1) ? ("Cartons") : (MilkQuantity < 1) ? ("") : ("Carton");\
+     MilkTotal = MilkPrice * MilkQuantity;\
+     IncludeMilk = (MilkQuantity == 0) ? ("") : (" for $"+MilkTotal);\
+     \
+     System.out.print("Butter: ");\
+     ButterStickQuantity = userInput.nextInt();\
+     ButterPlural = (ButterStickQuantity > 1) ? ("Sticks") : (ButterStickQuantity < 1) ? ("") : ("Stick");\
+     ButterTotal = ButterPrice * ButterStickQuantity;\
+     IncludeButter = (ButterStickQuantity == 0) ? ("") : (" for $"+ButterTotal);\
+     \
+     System.out.print("Bread: ");\
+     BreadQuantity = userInput.nextInt();\
+     BreadTotal = BreadPrice * BreadQuantity;\
+     BreadPlural = (BreadQuantity > 1) ? ("Loafs") : (BreadQuantity < 1) ? ("") : ("Loaf");\
+     IncludeBread = (BreadQuantity == 0) ? ("") : (" for $"+BreadTotal);\
+     \
+     //Calculations\
+     InQuantityTotalAmount = ButterStickQuantity + BreadQuantity + MilkQuantity;\
+     pluralItem = (InQuantityTotalAmount > 1) ? ("items") : ("item");\
+     InTotalAmount = BreadTotal + ButterTotal + MilkTotal;\
+     \
+     //Printing out final results \
+     \
+    if (InQuantityTotalAmount == 0.00) \{\
+        System.out.print("\\nYour car is empty. Come back later!!");\
+        System.exit(0);\
+    \}\
+     \
+     System.out.println("Today, you're purchasing: \\n\\nMilk: "+MilkQuantity+" "+MilkPlural+IncludeMilk);\
+     System.out.println("Butter: "+ButterStickQuantity+" "+ButterPlural+IncludeButter);\
+     System.out.print("Bread: "+BreadQuantity+" "+BreadPlural+IncludeBread+"\\n\\nThat's a total of "+InQuantityTotalAmount+" "+pluralItem);\
+     System.out.printf(" for the final price of: $%.2f", InTotalAmount);\
+    \}\
+\}}

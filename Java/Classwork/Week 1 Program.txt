@@ -1,0 +1,18 @@
+public class MyProgram
+{
+    public static void main(String[] args)
+    {
+        String firstname = "Jaylen";
+        String lastname = " Smith";
+        int age = 18;
+        double height = 6.4; 
+        double price = 3.25; 
+        boolean ANSWER = false; 
+        
+        if (age == 18 || age > 18) {
+            ANSWER = true;
+        }
+        System.out.println("Name: "+firstname+lastname+"\nAge: "+age
+        +"\nHeight: "+height+"\nPrice: "+price+"\nPerson is older than or 18?: "+ANSWER);
+    }
+}
