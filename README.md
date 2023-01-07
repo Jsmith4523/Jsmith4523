@@ -11,10 +11,11 @@ Outside of programming, I run two small YouTube channels: one about technology a
 :camera: YouTube #2: [codingKo] (https://www.youtube.com/channel/UCdyzflW8voWbWwrEhO6ZXzw)
 
 ANDD outside of the internet and tech world, I enjoy:
-:roller_skate: Roller skating
-:running: Going for runs
-:earth_americas: Exploring the world
-:film_strip: Movies, movies, and MORE movies!
+- :roller_skate: Roller skating
+- :running: Going for runs
+- :video_game: Video games with friends
+- :earth_americas: Exploring the world
+- :film_strip: Movies, movies, and MORE movies!
 
 Thank you for checking out my GitHub!
 
