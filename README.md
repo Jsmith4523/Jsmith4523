@@ -7,8 +7,8 @@
 
 Outside of programming, I run two small YouTube channels: one about technology and second one around programming!
 
-:camera: YouTube: [MainKo](https://youtube.com/channel/UCcCKGhjb8yXFmeTmHuthhNw)
-:camera: YouTube #2: [codingKo] (https://www.youtube.com/channel/UCdyzflW8voWbWwrEhO6ZXzw)
+- :camera: YouTube #1: [MainKo](https://youtube.com/channel/UCcCKGhjb8yXFmeTmHuthhNw)
+- :camera: YouTube #2: [codingKo](https://www.youtube.com/channel/UCdyzflW8voWbWwrEhO6ZXzw)
 
 ANDD outside of the internet and tech world, I enjoy:
 - :roller_skate: Roller skating
