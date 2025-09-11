@@ -16,8 +16,4 @@ Most recently, I interned at Apple on the Find My team, where I built automation
 ## 📈 Highlight  
 - 2x Apple intern (Find My + other teams)  
 - Winner of the 2024 Swift Student Challenge  
-- Experienced in shipping apps from concept → prototype → beta  
-
-## 🌍 Let’s Connect  
-[LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/jaylen-smith-650a281b4/))  
-[YouTube]([https://twitter.com/your-handle](https://www.youtube.com/@codingKo))  
+- Experienced in shipping apps from concept → prototype → beta 
