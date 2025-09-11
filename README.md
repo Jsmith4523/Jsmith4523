@@ -1,3 +1,23 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jsmith4523)
+# Hi, I’m Jaylen 👋  
 
-* Async and await!
+I’m an iOS developer and student passionate about building apps that solve real problems and connect communities.  
+Most recently, I interned at Apple on the Find My team, where I built automation tests for Liquid Glass performance and introduced new tools like Claude Code to improve testing workflows.  
+
+---
+
+## 🛠️ Tech I Use  
+- Swift, SwiftUI, UIKit, Combine  
+- Core Data, Supabase, Firebase  
+- Git/GitHub, Xcode, XCTest  
+- Python (automation), Bash scripting  
+
+---
+
+## 📈 Highlight  
+- 2x Apple intern (Find My + other teams)  
+- Winner of the 2024 Swift Student Challenge  
+- Experienced in shipping apps from concept → prototype → beta  
+
+## 🌍 Let’s Connect  
+[LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/jaylen-smith-650a281b4/))  
+[YouTube]([https://twitter.com/your-handle](https://www.youtube.com/@codingKo))  
