@@ -14,6 +14,6 @@ Most recently, I interned at Apple on the Find My team, where I built automation
 ---
 
 ## 📈 Highlight  
-- 2x Apple intern (Find My + other teams)  
+- 2x Apple intern (Vision Pro and Apple Maps)  
 - Winner of the 2024 Swift Student Challenge  
 - Experienced in shipping apps from concept → prototype → beta 
