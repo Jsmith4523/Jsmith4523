@@ -8,10 +8,11 @@ iOS developer building mobile apps and experimental projects around maps, commun
 
 | Category | Technologies |
 |---|---|
-| **Languages** | ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) |
+| **Languages** | ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
 | **iOS** | ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=apple&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3) ![Combine](https://img.shields.io/badge/Combine-000000?logo=apple&logoColor=white) |
 | **Data** | ![CoreData](https://img.shields.io/badge/CoreData-000000?logo=apple&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Tools** | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![XCTest](https://img.shields.io/badge/XCTest-000000?logo=apple&logoColor=white) |
+| **Tools** | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![XCTest](https://img.shields.io/badge/XCTest-000000?logo=apple&logoColor=white) |
+| **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-AI-8B5CF6) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white) |
 
 ---
 
