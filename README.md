@@ -15,7 +15,7 @@ iOS developer building mobile apps and experimental projects around maps, commun
 ## 🚀 Projects
 
 **Emo**  
-Location-based social platform that visualizes emotional activity on a map.
+Location-based social platform that visualizes emotional activity on a map view using Emoji sticker images.
 
 **BillyG**  
 Work-in-progress Raspberry Pi digital dashboard for my 2003 Hyundai Elantra, that ocassionally updates telemetry data to a iOS Application companion.
