@@ -14,14 +14,98 @@ iOS developer building mobile apps and experimental projects around maps, commun
 
 ## 🚀 Projects
 
-**Emo**  
-Location-based social platform that visualizes emotional activity on a map view using Emoji sticker images.
+<table>
+<tr>
+<td width="90">
+<img src="https://github.com/Jsmith4523/Assests/blob/main/Emo%20Icon.png?raw=true" height="72" style="border-radius:16px;">
+</td>
 
-**BillyG**  
-Work-in-progress Raspberry Pi digital dashboard for my 2003 Hyundai Elantra, that ocassionally updates telemetry data to a iOS Application companion.
+<td>
 
-**StudyRepo (🏆 Winner — 2024 Swift Student Challenge)**  
-Study tool for storing and annotating learning materials.  
+<strong>Emo</strong><br>
+Location-based social platform that visualizes emotional activity across places using emoji stickers as heat points. Users drag and drop stickers directly onto an interactive map to express how they feel at specific locations, with each sticker persisting for 24 hours to create a live, evolving snapshot of the mood around them.
+</td>
+
+<td width="120">
+
+<a href="https://www.linkedin.com/posts/activity-7393736724105031680-LGiq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADH8U5wBwkVJruJT2Ai-ZNXjoe1RjMDqW6A">
+<img src="https://img.shields.io/badge/View%20Project-LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+
+<tr>
+<td width="90">
+<img src="https://github.com/Jsmith4523/Assests/blob/main/BillyG%20Icon.jpg?raw=true" height="72" style="border-radius:16px;">
+</td>
+
+<td>
+
+<strong>BillyG</strong><br>
+Custom Raspberry Pi digital dashboard interface for my 2003 Hyundai Elantra with real-time telemetry and an iOS companion app.
+
+</td>
+
+<td width="170">
+
+<a href="https://github.com/Jsmith4523/elantra-dash-core">
+<img src="https://img.shields.io/badge/Core%20Repo-GitHub-181717?logo=github&logoColor=white">
+</a>
+
+<br>
+
+<a href="https://github.com/Jsmith4523/elantra-dash-ui">
+<img src="https://img.shields.io/badge/Dash%20UI%20Repo-GitHub-181717?logo=github&logoColor=white">
+</a>
+
+</td>
+
+
+<tr>
+<td width="90">
+<img src="https://github.com/Jsmith4523/Assests/blob/main/ssc-logo-code-status_2x.png" height="72" style="border-radius:16px;">
+</td>
+
+<td>
+
+<strong>StudyRepo</strong> (🏆 Winner — 2024 Swift Student Challenge)<br>
+Study tool for storing, organizing, and annotating course materials.
+
+</td>
+
+<td width="120">
+
+<a href="https://github.com/Jsmith4523/StudyRepo">
+<img src="https://img.shields.io/badge/View%20Project-181717?logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="90">
+<img src="https://github.com/Jsmith4523/Assests/blob/main/Pantry%20Icon.jpg?raw=true" height="72" style="border-radius:16px;">
+</td>
+
+<td>
+
+<strong>Pantry</strong> <br>
+Smart pantry tracker that uses the camera to scan and recognize food items, automatically saving them to a Core Data–powered inventory so users can keep track of what’s in their pantry.
+
+</td>
+
+<td width="120">
+
+<a href="https://github.com/Jsmith4523/Pantry">
+<img src="https://img.shields.io/badge/View%20Project-181717?logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+</table>
 
 ## 🏆 Highlights
 - Apple Intern — Vision Pro  
