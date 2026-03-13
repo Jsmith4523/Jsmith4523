@@ -60,6 +60,10 @@ Custom Raspberry Pi digital dashboard interface for my 2003 Hyundai Elantra with
 <img src="https://img.shields.io/badge/Dash%20UI%20Repo-GitHub-181717?logo=github&logoColor=white">
 </a>
 
+<a href="https://youtu.be/lft4T384MPM">
+<img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">
+</a>
+
 </td>
 
 
